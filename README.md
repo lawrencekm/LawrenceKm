@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @LawrenceKm
+- 👋 I’m @LawrenceKm
 
-- 👀 I’m interested in:
-* Software design and development at scale
-* Web Design and Development
-* Reversibility. When you can unlearn and re-learn, then you can as well do more of it.
+- 👀 I’m interested in:  Software design and development at scale. Web Design and Development. Tradeoffs and tackles of changes affecting development as a product matures. Adapting our tools and techniques to the inexorable laws of nature and power law distributions. How to coach, scale it, teach it, and measure it.
+    
 - 🤔 I’m looking for help with cleaner tidier coding.
 - 🌱 I’m currently learning CI/CD, economics for creators.
 - 🔭 I’m currently working on creating a smpp to http bridge
